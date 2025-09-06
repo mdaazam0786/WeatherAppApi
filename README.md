@@ -26,4 +26,4 @@ Maven (build tool)
 
 🌍 Project URL
 
-👉 https://github.com/mdaazam0786/WeatherAppApi.git
+👉 👉 [WeatherAppApi on GitHub](https://github.com/mdaazam0786/WeatherAppApi)
