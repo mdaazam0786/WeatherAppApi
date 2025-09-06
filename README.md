@@ -24,4 +24,4 @@ Redis (for caching)
 
 Maven (build tool)
 
-Project URL: https://github.com/mdaazam0786/WeatherAppApi
+Project URL: https://github.com/mdaazam0786/WeatherAppApi.git
